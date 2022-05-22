@@ -18,5 +18,8 @@
     "visitas"
   ],
   "author": "Vitor Santana",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.5"
+  }
 }
