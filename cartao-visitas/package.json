@@ -1,6 +1,6 @@
 {
   "name": "cartao-visitas-vitorhsantana-2022",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Olá, me chamo Vitor, sou da cidade de Americana/SP, tenho 28 anos de idade e sempre gostei muito de tecnologia. Trabalho atualmente na área de banco de dados e estou cursando o curso de desenvolvimento Back-end na Estartando Devs. Meu objetivo profissional é um dia poder trabalhar com programação em uma grande empresa e fazer a diferença positivamente em seu quadro de funcionários. Acredito muito no poder dos softs skills dentro das organizações e estou gostando muito das aulas com o Vitor Cardoso.",
   "main": "index.js",
   "bin": "./index.js",

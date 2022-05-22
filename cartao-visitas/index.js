@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var prettyjson = require('prettyjson');
 
 var data = {
